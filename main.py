@@ -20,3 +20,12 @@ def about():
 def view_students():
     data = load_data()
     return data
+
+@app.get("/view/{student_id}")
+def view_students_by_id(student_id: str):
+    data = load_data()
+
+    if student_id in data:
+        return data[student_id]
+    else:
+        return "Student Not Found"
