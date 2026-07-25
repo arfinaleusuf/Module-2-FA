@@ -1,7 +1,13 @@
 C R U D
 
-
 C ---- create
 R ---- read
 U ---- update
 D ---- delete
+amra keno software e ei charta kaj korte pari
+
+http --- hyper text teansfer protocol
+C ---- create(post)
+R ---- read(get)
+U ---- update(put)
+D ---- delete(delete)
