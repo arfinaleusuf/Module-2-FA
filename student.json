@@ -1,0 +1,102 @@
+{
+  "S001": {
+    "name": "Aarav Khan",
+    "age": 15,
+    "class": "9",
+    "role": "Student",
+    "mathematics": 92,
+    "english": 85,
+    "science": 89,
+    "phone": "01710000001"
+  },
+  "S002": {
+    "name": "Nusrat Jahan",
+    "age": 14,
+    "class": "8",
+    "role": "Student",
+    "mathematics": 88,
+    "english": 91,
+    "science": 90,
+    "phone": "01710000002"
+  },
+  "S003": {
+    "name": "Rahim Ahmed",
+    "age": 16,
+    "class": "10",
+    "role": "Student",
+    "mathematics": 79,
+    "english": 82,
+    "science": 84,
+    "phone": "01710000003"
+  },
+  "S004": {
+    "name": "Priya Das",
+    "age": 15,
+    "class": "9",
+    "role": "Student",
+    "mathematics": 95,
+    "english": 94,
+    "science": 97,
+    "phone": "01710000004"
+  },
+  "S005": {
+    "name": "Sabbir Hossain",
+    "age": 13,
+    "class": "7",
+    "role": "Student",
+    "mathematics": 81,
+    "english": 76,
+    "science": 80,
+    "phone": "01710000005"
+  },
+  "S006": {
+    "name": "Mehjabin Islam",
+    "age": 14,
+    "class": "8",
+    "role": "Student",
+    "mathematics": 90,
+    "english": 87,
+    "science": 92,
+    "phone": "01710000006"
+  },
+  "S007": {
+    "name": "Tanvir Hasan",
+    "age": 17,
+    "class": "11",
+    "role": "Student",
+    "mathematics": 86,
+    "english": 83,
+    "science": 88,
+    "phone": "01710000007"
+  },
+  "S008": {
+    "name": "Farzana Akter",
+    "age": 16,
+    "class": "10",
+    "role": "Student",
+    "mathematics": 93,
+    "english": 89,
+    "science": 91,
+    "phone": "01710000008"
+  },
+  "S009": {
+    "name": "Imran Chowdhury",
+    "age": 15,
+    "class": "9",
+    "role": "Student",
+    "mathematics": 77,
+    "english": 80,
+    "science": 79,
+    "phone": "01710000009"
+  },
+  "S010": {
+    "name": "Jannatul Ferdous",
+    "age": 14,
+    "class": "8",
+    "role": "Student",
+    "mathematics": 98,
+    "english": 96,
+    "science": 99,
+    "phone": "01710000010"
+  }
+}
