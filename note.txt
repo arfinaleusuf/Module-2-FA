@@ -1,0 +1,7 @@
+C R U D
+
+
+C ---- create
+R ---- read
+U ---- update
+D ---- delete
